@@ -82,6 +82,11 @@ body::after {
 }
 .nav-btn:hover {
   background: #333;
+  background-color: #d534db;
+        
+}
+.nav-btn:active {
+        transform: scale(0.9);
 }
 
 .carousel {
@@ -154,3 +159,4 @@ body::after {
   font-size: 0.8rem;
   color: #aaa;
 }
+
